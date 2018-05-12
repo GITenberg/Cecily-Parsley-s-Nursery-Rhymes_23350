@@ -20,6 +20,8 @@ description: "Cecily Parsley's Nursery Rhymes is a children's book written and i
   , \"This Little Piggy\" and \"Three Blind Mice\". It was Potter's second book of\
   \ rhymes published by Warne. Merchandise generated from the tale includes Beswick\
   \ Pottery porcelain figurines and Schmid music boxes.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23350#Cecily-Parsley-s-Nursery-Rhymes
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2007-11-06'
 gutenberg_type: Text
